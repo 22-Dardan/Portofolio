@@ -34,8 +34,9 @@
         
         <!-- Section Header -->
         <div class="mb-12 text-center sm:text-left">
-            <h1 class="text-3xl font-black text-gray-900 tracking-tight">🚀 Featured Code Repositories</h1>
-            <p class="text-gray-500 mt-2">Live development proofs and full-stack software project builds.</p>
+            <h1 class="text-3xl font-black text-gray-900 tracking-tight">My Projects
+            </h1>
+            
         </div>
 
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
